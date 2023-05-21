@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Default
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 5f91f32ea9e59734d94f053acde123d5, type: 3}
+    - {fileID: 2800000, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+    - {fileID: 2800000, guid: dae4c01e9c6c14249a6ce1f4ad84302b, type: 3}
+    - {fileID: 2800000, guid: b5ae6473afaba55428ea803fb8fc2325, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b5ae6473afaba55428ea803fb8fc2325, type: 3}
+  - {fileID: -1744284402, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 1583276809, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -1428810083, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 299736593, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -2105047762, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -817232991, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 1288147499, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -930127198, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 828136850, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -1530137393, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 1214871949, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -1350893384, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -1561353238, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 1951727237, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 757888265, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 1393434213, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 1436748800, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 1843524455, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 666628930, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -447993002, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 408732706, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -3944206, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -360406129, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 421649572, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -1056779677, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 955757662, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 1326572662, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -1281758905, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 1466435165, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 740665759, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -1329048322, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 1519803972, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 521948614, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -1034928751, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -335215986, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 1128231126, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -1271726576, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 1483926919, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -1152472264, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 123308033, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -947903251, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -989790072, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 583830366, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -805942045, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -1975093455, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -27250838, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -1789095519, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -149618852, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 476136991, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -275920805, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 1106628780, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: -487353668, guid: 67f2700e302e9e040b33324a1d049599, type: 3}
+  - {fileID: 21300000, guid: dae4c01e9c6c14249a6ce1f4ad84302b, type: 3}
+  - {fileID: 21300000, guid: 5f91f32ea9e59734d94f053acde123d5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Table
+  - cards_10
+  - cards_11
+  - cards_12
+  - cards_13
+  - cards_14
+  - cards_15
+  - cards_16
+  - cards_36
+  - cards_17
+  - cards_37
+  - cards_18
+  - cards_34
+  - cards_19
+  - cards_35
+  - cards_32
+  - cards_33
+  - cards_30
+  - cards_31
+  - cards_38
+  - cards_39
+  - cards_1
+  - cards_0
+  - cards_3
+  - cards_2
+  - cards_5
+  - cards_4
+  - cards_7
+  - cards_6
+  - cards_9
+  - cards_29
+  - cards_8
+  - cards_28
+  - cards_21
+  - cards_20
+  - cards_23
+  - cards_22
+  - cards_25
+  - cards_49
+  - cards_24
+  - cards_48
+  - cards_27
+  - cards_47
+  - cards_26
+  - cards_50
+  - cards_46
+  - cards_51
+  - cards_45
+  - cards_44
+  - cards_43
+  - cards_42
+  - cards_41
+  - cards_40
+  - Empty Place
+  - Card Reverse Side
+  m_RenderDataMap: {}
+  m_Tag: Default
+  m_IsVariant: 0
